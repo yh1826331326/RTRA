@@ -8,5 +8,6 @@
       <version>0.7.4</version>
     </dependency>
   </dependencies>
+</dependencies>
 
 
