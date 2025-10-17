@@ -1,6 +1,5 @@
 # Maven environment configuration
 
-# Geo
 <dependencies>
     <dependency>
       <groupId>com.github.davidmoten</groupId>
@@ -9,5 +8,6 @@
     </dependency>
   </dependencies>
 </dependencies>
+
 
 
