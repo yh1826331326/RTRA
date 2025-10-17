@@ -1,5 +1,7 @@
 # Maven environment configuration
 
+**Maven Dependencies for Geohash**
+
 <dependencies>
     <dependency>
       <groupId>com.github.davidmoten</groupId>
@@ -9,5 +11,6 @@
   </dependencies>
 </dependencies>
 
+To use `jpbc-2.0.0.tar.gz` as the JPBC library dependency, you need to extract it and import it as a dependency in IntelliJ IDEA.
 
-
+**a.properties as curve configuration**
