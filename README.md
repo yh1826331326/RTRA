@@ -11,3 +11,7 @@ Maven Dependencies for Geohash
 To use `jpbc-2.0.0.tar.gz` as the JPBC library dependency, you need to extract it and import it as a dependency in IntelliJ IDEA.
 
 a.properties as curve configuration
+
+This version of the code was submitted before the first trial. The part regarding the geohash edge grid issue has not been revised.
+
+
